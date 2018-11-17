@@ -6,10 +6,10 @@ background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb); /* W3C, IE 10+
 
 }
 
-/*#contentWrap {
+#contentWrap {
     display: none;
 }
-*/
-#nickWrap {
+
+/*#nickWrap {
     display: none;
-}
+}*/
